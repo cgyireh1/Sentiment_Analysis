@@ -65,7 +65,7 @@ Two feature extraction techniques were used:
 
 Have the following installed:
 
-- Python 3.x
+- Python 3. (and above)
 - TensorFlow/Keras
 - Scikit-learn
 - Pandas
